@@ -34,8 +34,6 @@ Names of possible objects:
 
 ## Result
 ```
-Path to video (or URL): Result/input/example.mp4
-What we are looking for: person, car, bus
+Path to video (or URL): C:/Video/video.mp4
+What we are looking for: person, car
 ```
-![Input](https://github.com/paveldat/object_detection_on_video/blob/main/Result/input/example.gif)
-![Output](https://github.com/paveldat/object_detection_on_video/blob/main/Result/output/example.gif)
