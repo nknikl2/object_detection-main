@@ -1,13 +1,15 @@
-## Features
-* Works with image, video
-* Possibility to connect a camera
-* Distinguishes 80 objects
-* The user can specify which object to look for on the image`
+## Возможности
+* Работает с изображением и видео
+* Возможность подключения к камере
+* Имеется 80 объектов
+* Пользователь может сам указывать, какой объект нужно найти
 
-## Help
-When you start the program, you will be prompted to enter the path to the video and the name of the object that you need to find and calculate it.
-If you need to find several objects in the image, write them separated by commas.
-Names of possible objects:
+## Помощь
+Когда вы запустите программу, вам будет предложено ввести путь к видео и название объекта, который вам нужно найти и вычислить.
+Если вам нужно найти несколько объектов на изображении, напишите их через запятую
+После запуска программы необходимо ввести путь (указать директорию) к файлу и название искомого объекта.
+
+Названия искомых объектов:
 ```
 'person', 'bicycle', 'car', 'motorbike', 'aeroplane', 'bus', 'train', 'truck', 'boat', 'traffic light',
 'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse', 'sheep', 'cow',
